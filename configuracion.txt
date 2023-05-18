@@ -69,4 +69,5 @@
     // -----------------------------------------
     "workbench.activityBar.visible": false,
     "window.zoomLevel": -1,
+    // ----------------FIN-------------------------
 }
