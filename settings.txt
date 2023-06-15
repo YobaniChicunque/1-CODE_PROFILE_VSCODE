@@ -26,7 +26,6 @@
     "terminal.integrated.fontWeight": "bold",
     "workbench.iconTheme": "vscode-icons",
     "files.autoSave": "off",
-    "workbench.colorTheme": "Panda Syntax",
     // -----------------------------------------
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "security.workspace.trust.untrustedFiles": "open",
@@ -49,16 +48,6 @@
         "javascript": "html",
         "django-html": "html"
     },
-    "beautify.language": {
-        "html": [
-            "htm",
-            "html",
-            "django-html"
-        ]
-    },
-    "[django-html]": {
-        "editor.defaultFormatter": "HookyQR.beautify"
-    },
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8"
     },
@@ -69,5 +58,6 @@
     // -----------------------------------------
     "workbench.activityBar.visible": false,
     "window.zoomLevel": -1,
+    "workbench.colorTheme": "Panda Syntax",
     // ----------------FIN-------------------------
 }
