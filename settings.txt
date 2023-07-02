@@ -1,5 +1,5 @@
 {
-    // -----YOBANI Configuracion VSCODE ---------------
+    // -----Yobani Chicunque Configuracion VSCODE ---------------
     "editor.defaultFormatter": "vscode.html-language-features",
     "editor.fontFamily": "'Consolas, 'Courier New', monospace",
     "editor.fontSize": 16,
@@ -27,7 +27,7 @@
     "workbench.iconTheme": "vscode-icons",
     "files.autoSave": "off",
     // -----------------------------------------
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "security.workspace.trust.untrustedFiles": "open",
     "window.restoreWindows": "none",
     "extensions.ignoreRecommendations": true,
@@ -55,9 +55,8 @@
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
-    // -----------------------------------------
+    "workbench.colorTheme": "Panda Syntax",
     "workbench.activityBar.visible": false,
     "window.zoomLevel": -1,
-    "workbench.colorTheme": "Panda Syntax",
     // ----------------FIN-------------------------
 }
